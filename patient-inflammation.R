@@ -1,19 +1,98 @@
 ---
-title: "HW10_JH"
-output: html_document
+  title: "patient-inflammation.R"
+author: "Jeffrey Horwitz"
 date: "2022-12-01"
+output:
+  word_document: default
+html_document: default
 ---
-# install knitr
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
 
-# step 6
+  ```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# step 5-6
+```{r}
 url <- "https://github.com/Jefe238/r-novice-inflammation.git"
 download.file(url, "r-novice-inflammation-data.zip")
 unzip("r-novice-inflammation-data.zip")
-
+```
 
 # step 7
+```{r}
 install.packages("readr")
 library(readr)
 data01 <- read.csv("/cloud/project/data/data/inflammation-01.csv", header = FALSE, sep = ',')
+```
+
+# step 8A
+```{r}
+class(data01)
+# the outpout of this command is a data frame
+typeof(data01)
+# the type is a list
+```
+# setp 8B
+```{r}
+dim(data01)
+# It means that the dataset has 60 observations and 40 variables
+```
+# step 8C
+```{r}
+data01[30, 20]
+data01[c(1, 3, 5), c(10, 20)]
+
+#How do we select the first ten columns of values for the first four rows?
+data01[c(1:4), c(1:10)]
+
+#How do we select the first ten columns of rows 5 to 10?
+data01[c(5:10), c(1:10)]
+```
+# step 8D
+```{r}
+data01[, 'V16']
+data01$V16
+
+# first row, all of the columns
+patient_1 <- data01[1, ]
+
+# max inflammation for patient 1
+max(patient_1)
+
+# sum inflammation for patient 1
+sum(patient_1)
+```
+
+# step 8E # to discuss with Jeff
+```{r}
+# max inflammation for patient 1
+max(data01[1, ])
+
+# the minimum inflammation for patient 2 on day 7
+min(data01[2,'V7'])
+# The minimum inflammation can be found using the code min()
+```
+# step 8F
+```{r}
+max(data01[1, ])
+mean(data01 [1, ])
+mean(as.numeric(data01[1, ]))
+```
+# step 8G
+```{r}
+avg_patient_inflammation <- apply(data01, 1, mean)
+avg_day_inflammation <- apply(data01, 2, mean)
+```
+
+# step 9
+```{r}
+plot(avg_day_inflammation)
+
+# the maximum inflammation per day
+max_day_inflammation <- apply(data01, 2, max)
+plot(max_day_inflammation) #
+
+# the minimum inflammation per day
+min_day_inflammation <- apply(data01, 2, min)
+plot(min_day_inflammation) #
+```
