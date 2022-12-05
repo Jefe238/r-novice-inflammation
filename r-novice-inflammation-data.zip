@@ -76,7 +76,7 @@
 
     
 
-  <meta name="request-id" content="4A8E:6196:275D442:39E9B1E:638E7AC6" data-pjax-transient="true"/><meta name="html-safe-nonce" content="dd9e97f423a276e959583f2021d2ff05a6b617b132f8c10a111089ddcc260b1f" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI0QThFOjYxOTY6Mjc1RDQ0MjozOUU5QjFFOjYzOEU3QUM2IiwidmlzaXRvcl9pZCI6IjE5OTAwMTM0MTExMTEzNjk0MTQiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="657d738880bf22fb6f737b68b0e40adcc45711086095a1a7492878120d43e7e3" data-pjax-transient="true"/>
+  <meta name="request-id" content="8DA2:6DB9:165778:206EEF:638E7F32" data-pjax-transient="true"/><meta name="html-safe-nonce" content="438412c1d0031a45d390b78f723bc32fd52d3e368687bb4b81b502198fc80951" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI4REEyOjZEQjk6MTY1Nzc4OjIwNkVFRjo2MzhFN0YzMiIsInZpc2l0b3JfaWQiOiIyNzExOTEyMzQzMTUxNzM4Njc0IiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="c834ad7edbf0bd2dc5d9e8ff515b0567bec36c3ad667a573d150bcca77ff17c1" data-pjax-transient="true"/>
 
 
     <meta name="hovercard-subject-tag" content="repository:573137325" data-turbo-transient>
@@ -574,7 +574,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="Aukk9CRLjHZjNmYrjJQu27tBHW2+jHVlNSFemD24i+u4D4lj6aSPMSy0YlN8JU+5MgDNjEhteUYEdV9m3MbcZw==" />
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="NuZdbpvK9Th/ecR/LpSG7Y268SqlXEkvHBCtkx+/AeIuRcs/HtMBCza3QnYwY3LGpyraRZCND1jBoYJoyewUuw==" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -1124,7 +1124,7 @@
   
 </div></div>
 
-  <include-fragment src="/Jefe238/r-novice-inflammation/spoofed_commit_check/b4e673b8428c73764bb6749a20ff934fb7da3210" data-test-selector="spoofed-commit-check"></include-fragment>
+  <include-fragment src="/Jefe238/r-novice-inflammation/spoofed_commit_check/358fe2ca6bf4d6e8fbd1cd719cffe5a120f52691" data-test-selector="spoofed-commit-check"></include-fragment>
 
   <div data-view-component="true" class="Layout Layout--flowRow-until-md Layout--sidebarPosition-end Layout--sidebarPosition-flowRow-end">
   <div data-view-component="true" class="Layout-main">      
@@ -1520,7 +1520,7 @@
 <div class="d-sm-flex Box mb-3 Box-body color-bg-subtle">
   <div class="d-flex flex-auto">
         <div>
-          This branch is <span><a data-analytics-event="{&quot;category&quot;:&quot;Branch Infobar&quot;,&quot;action&quot;:&quot;Ahead Compare&quot;,&quot;label&quot;:&quot;ref_loc:bar;is_fork:true&quot;}" href="/Jefe238/r-novice-inflammation/compare/swcarpentry:r-novice-inflammation:main...main">5 commits ahead</a> of swcarpentry:main</span>.
+          This branch is <span><a data-analytics-event="{&quot;category&quot;:&quot;Branch Infobar&quot;,&quot;action&quot;:&quot;Ahead Compare&quot;,&quot;label&quot;:&quot;ref_loc:bar;is_fork:true&quot;}" href="/Jefe238/r-novice-inflammation/compare/swcarpentry:r-novice-inflammation:main...main">6 commits ahead</a> of swcarpentry:main</span>.
         </div>
   </div>
   <div class="d-flex flex-justify-end mt-2 mt-sm-0 ml-sm-3">
@@ -1532,10 +1532,69 @@
   <div class="Box-header position-relative">
     <h2 class="sr-only">Latest commit</h2>
     <div class="js-details-container Details d-flex rounded-top-2 flex-items-center flex-wrap" data-issue-and-pr-hovercards-enabled>
-      <include-fragment src="/Jefe238/r-novice-inflammation/tree-commit/b4e673b8428c73764bb6749a20ff934fb7da3210" class="d-flex flex-auto flex-items-center" aria-busy="true" aria-label="Loading latest commit">
-        <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
-        <div class="Skeleton Skeleton--text col-5 ml-3">&nbsp;</div>
-</include-fragment>      <div class="flex-shrink-0">
+      
+  <div class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1 hx_avatar_stack_commit" >
+    
+<div class="AvatarStack flex-self-start  " >
+  <div class="AvatarStack-body" aria-label="" >
+  </div>
+</div>
+
+  </div>
+  <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
+    <div class="css-truncate css-truncate-overflow color-fg-muted" >
+          <span class="commit-author user-mention" title="jefe238">jefe238</span>
+    
+  
+
+        <span class="d-none d-sm-inline">
+          <a data-pjax="true" data-test-selector="commit-tease-commit-message" title="Created R Markdown Script" class="Link--primary markdown-title" href="/Jefe238/r-novice-inflammation/commit/358fe2ca6bf4d6e8fbd1cd719cffe5a120f52691">Created R Markdown Script</a>
+        </span>
+    </div>
+    <span
+      class="hidden-text-expander ml-2 d-inline-block d-inline-block d-lg-none"
+      
+    >
+      <button
+        type="button"
+        class="color-fg-default ellipsis-expander js-details-target"
+        aria-expanded="false"
+        
+      >
+        &hellip;
+      </button>
+    </span>
+    <div class="d-flex flex-auto flex-justify-end ml-3 flex-items-baseline">
+        <include-fragment accept="text/fragment+html" src="/Jefe238/r-novice-inflammation/commit/358fe2ca6bf4d6e8fbd1cd719cffe5a120f52691/rollup?direction=sw" class="d-inline" ></include-fragment>
+      <a
+        href="/Jefe238/r-novice-inflammation/commit/358fe2ca6bf4d6e8fbd1cd719cffe5a120f52691"
+        class="f6 Link--secondary text-mono ml-2 d-none d-lg-inline"
+        data-pjax="#repo-content-pjax-container"
+        data-turbo-frame="repo-content-turbo-frame"
+        
+      >
+        358fe2c
+      </a>
+      <a
+        href="/Jefe238/r-novice-inflammation/commit/358fe2ca6bf4d6e8fbd1cd719cffe5a120f52691"
+        class="Link--secondary ml-2"
+        data-pjax="#repo-content-pjax-container"
+        data-turbo-frame="repo-content-turbo-frame"
+        
+      >
+        <relative-time datetime="2022-12-05T23:22:17Z" class="no-wrap">Dec 5, 2022</relative-time>
+      </a>
+    </div>
+  </div>
+  <div class="pl-0 pl-md-5 flex-order-1 width-full Details-content--hidden">
+      <div class="mt-2">
+        <a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-test-selector="commit-tease-commit-message" class="Link--primary text-bold" href="/Jefe238/r-novice-inflammation/commit/358fe2ca6bf4d6e8fbd1cd719cffe5a120f52691">Created R Markdown Script</a>
+      </div>
+    <div class="d-flex flex-items-center">
+      <code class="border d-lg-none mt-2 px-1 rounded-2">358fe2c</code>
+    </div>
+  </div>
+      <div class="flex-shrink-0">
         <h2 class="sr-only">Git stats</h2>
         <ul class="list-style-none d-flex">
           <li class="ml-0 ml-md-3">
@@ -1544,7 +1603,7 @@
     <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path>
 </svg>
               <span class="d-none d-sm-inline">
-                    <strong>2,421</strong>
+                    <strong>2,422</strong>
                     <span aria-label="Commits on main" class="color-fg-muted d-none d-lg-inline">
                       commits
                     </span>
@@ -1559,8 +1618,7 @@
     
 
 
-  <include-fragment src="/Jefe238/r-novice-inflammation/file-list/main">
-      <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Jefe238/r-novice-inflammation/tree/b4e673b8428c73764bb6749a20ff934fb7da3210">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Jefe238/r-novice-inflammation/tree/358fe2ca6bf4d6e8fbd1cd719cffe5a120f52691">Permalink</a>
 
   <div data-view-component="true" class="include-fragment-error flash flash-error flash-full py-2">
   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
@@ -1592,11 +1650,13 @@
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
+                    <a data-pjax="true" title="fix email address" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/3d87de94baae56fd3adc3fd8cea4b699292f5b01">fix email address</a>
+              </span>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <div class="Skeleton Skeleton--text">&nbsp;</div>
+              <time-ago datetime="2022-03-11T22:13:37Z" data-view-component="true" class="no-wrap">Mar 11, 2022</time-ago>
           </div>
 
         </div>
@@ -1612,11 +1672,17 @@
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
+                    <a data-pjax="true" title="Merge pull request #555 from brynnelliott/patch-1
+
+DOC: update alt text" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/66a386f627c36144e941c187e332d909887c8a9a">Merge pull request</a> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="1406443672" data-permission-text="Title is private" data-url="https://github.com/swcarpentry/r-novice-inflammation/issues/555" data-hovercard-type="pull_request" data-hovercard-url="/swcarpentry/r-novice-inflammation/pull/555/hovercard" href="https://github.com/swcarpentry/r-novice-inflammation/pull/555">swcarpentry#555</a> <a data-pjax="true" title="Merge pull request #555 from brynnelliott/patch-1
+
+DOC: update alt text" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/66a386f627c36144e941c187e332d909887c8a9a">from brynnelliott/patch-1</a>
+              </span>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <div class="Skeleton Skeleton--text">&nbsp;</div>
+              <time-ago datetime="2022-10-13T04:32:43Z" data-view-component="true" class="no-wrap">Oct 13, 2022</time-ago>
           </div>
 
         </div>
@@ -1632,11 +1698,13 @@
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
+                    <a data-pjax="true" title="remove permalinks and layouts from individual page front matter" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/c7a0204022a4ce3a8933ad4f2112121d778f1d14">remove permalinks and layouts from individual page front matter</a>
+              </span>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <div class="Skeleton Skeleton--text">&nbsp;</div>
+              <time-ago datetime="2020-10-21T11:58:41Z" data-view-component="true" class="no-wrap">Oct 21, 2020</time-ago>
           </div>
 
         </div>
@@ -1652,11 +1720,17 @@
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
+                    <a data-pjax="true" title="Merge pull request #421 from swcarpentry/420-refer-to-best-practices
+
+Upgrade 06-best-practices with more references or even practices?" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/1d3fada4497b240d597e867057141eb980f3b080">Merge pull request</a> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="436223870" data-permission-text="Title is private" data-url="https://github.com/swcarpentry/r-novice-inflammation/issues/421" data-hovercard-type="pull_request" data-hovercard-url="/swcarpentry/r-novice-inflammation/pull/421/hovercard" href="https://github.com/swcarpentry/r-novice-inflammation/pull/421">swcarpentry#421</a> <a data-pjax="true" title="Merge pull request #421 from swcarpentry/420-refer-to-best-practices
+
+Upgrade 06-best-practices with more references or even practices?" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/1d3fada4497b240d597e867057141eb980f3b080">from swcarpentry/420-refer-to-best…</a>
+              </span>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <div class="Skeleton Skeleton--text">&nbsp;</div>
+              <time-ago datetime="2021-04-19T00:43:20Z" data-view-component="true" class="no-wrap">Apr 19, 2021</time-ago>
           </div>
 
         </div>
@@ -1672,11 +1746,13 @@
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
+                    <a data-pjax="true" title="License is not a copyright. License info ID (#472)" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/5fe9eecdb9b110be68a0ca549f23a735f6663ecf">License is not a copyright. License info ID (</a><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="612243082" data-permission-text="Title is private" data-url="https://github.com/swcarpentry/r-novice-inflammation/issues/472" data-hovercard-type="issue" data-hovercard-url="/swcarpentry/r-novice-inflammation/issues/472/hovercard" href="https://github.com/swcarpentry/r-novice-inflammation/issues/472">swcarpentry#472</a><a data-pjax="true" title="License is not a copyright. License info ID (#472)" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/5fe9eecdb9b110be68a0ca549f23a735f6663ecf">)</a>
+              </span>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <div class="Skeleton Skeleton--text">&nbsp;</div>
+              <time-ago datetime="2020-07-06T14:52:50Z" data-view-component="true" class="no-wrap">Jul 6, 2020</time-ago>
           </div>
 
         </div>
@@ -1692,11 +1768,17 @@
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
+                    <a data-pjax="true" title="Change link colours (#549)
+
+...to make them distinguishable from regular text. And for accessibility!" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/a4e53f948f2572934c64d8b70a654ca6bea814bb">Change link colours (</a><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="1296841383" data-permission-text="Title is private" data-url="https://github.com/swcarpentry/r-novice-inflammation/issues/549" data-hovercard-type="pull_request" data-hovercard-url="/swcarpentry/r-novice-inflammation/pull/549/hovercard" href="https://github.com/swcarpentry/r-novice-inflammation/pull/549">swcarpentry#549</a><a data-pjax="true" title="Change link colours (#549)
+
+...to make them distinguishable from regular text. And for accessibility!" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/a4e53f948f2572934c64d8b70a654ca6bea814bb">)</a>
+              </span>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <div class="Skeleton Skeleton--text">&nbsp;</div>
+              <time-ago datetime="2021-02-22T13:51:58Z" data-view-component="true" class="no-wrap">Feb 22, 2021</time-ago>
           </div>
 
         </div>
@@ -1712,11 +1794,13 @@
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
+                    <a data-pjax="true" title="Merge https://github.com/carpentries/styles into update-styles" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/a6db213a09f4f39e864468b6376f3ec311a68d21">Merge</a> <a href="https://github.com/carpentries/styles">https://github.com/carpentries/styles</a> <a data-pjax="true" title="Merge https://github.com/carpentries/styles into update-styles" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/a6db213a09f4f39e864468b6376f3ec311a68d21">into update-styles</a>
+              </span>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <div class="Skeleton Skeleton--text">&nbsp;</div>
+              <time-ago datetime="2021-03-15T20:35:59Z" data-view-component="true" class="no-wrap">Mar 15, 2021</time-ago>
           </div>
 
         </div>
@@ -1732,11 +1816,13 @@
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
+                    <a data-pjax="true" title="update 2022_12_05_b" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/b4e673b8428c73764bb6749a20ff934fb7da3210">update 2022_12_05_b</a>
+              </span>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <div class="Skeleton Skeleton--text">&nbsp;</div>
+              <time-ago datetime="2022-12-05T22:39:46Z" data-view-component="true" class="no-wrap">Dec 5, 2022</time-ago>
           </div>
 
         </div>
@@ -1752,11 +1838,13 @@
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
+                    <a data-pjax="true" title="Address #512" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/8a56ef19a44f099f6524a36f9a8090f3f90ec9f3">Address</a> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="857370480" data-permission-text="Title is private" data-url="https://github.com/swcarpentry/r-novice-inflammation/issues/512" data-hovercard-type="issue" data-hovercard-url="/swcarpentry/r-novice-inflammation/issues/512/hovercard" href="https://github.com/swcarpentry/r-novice-inflammation/issues/512">swcarpentry#512</a>
+              </span>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <div class="Skeleton Skeleton--text">&nbsp;</div>
+              <time-ago datetime="2021-04-14T23:41:32Z" data-view-component="true" class="no-wrap">Apr 14, 2021</time-ago>
           </div>
 
         </div>
@@ -1772,11 +1860,13 @@
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
+                    <a data-pjax="true" title=".editorconfig: don&#39;t trim trailing spaces in markdown" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/740773af3bc0a53d16daf1a2e859330ccdb4a226">.editorconfig: don't trim trailing spaces in markdown</a>
+              </span>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <div class="Skeleton Skeleton--text">&nbsp;</div>
+              <time-ago datetime="2021-01-27T19:49:53Z" data-view-component="true" class="no-wrap">Jan 27, 2021</time-ago>
           </div>
 
         </div>
@@ -1792,11 +1882,13 @@
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
+                    <a data-pjax="true" title="Merge https://github.com/carpentries/styles into update-styles" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/a6db213a09f4f39e864468b6376f3ec311a68d21">Merge</a> <a href="https://github.com/carpentries/styles">https://github.com/carpentries/styles</a> <a data-pjax="true" title="Merge https://github.com/carpentries/styles into update-styles" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/a6db213a09f4f39e864468b6376f3ec311a68d21">into update-styles</a>
+              </span>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <div class="Skeleton Skeleton--text">&nbsp;</div>
+              <time-ago datetime="2021-03-15T20:35:59Z" data-view-component="true" class="no-wrap">Mar 15, 2021</time-ago>
           </div>
 
         </div>
@@ -1812,11 +1904,13 @@
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
+                    <a data-pjax="true" title="Updating .mailmap and AUTHORS before release" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/640b10a94439313001124d2f03433ad052e51402">Updating .mailmap and AUTHORS before release</a>
+              </span>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <div class="Skeleton Skeleton--text">&nbsp;</div>
+              <time-ago datetime="2017-08-03T21:21:47Z" data-view-component="true" class="no-wrap">Aug 3, 2017</time-ago>
           </div>
 
         </div>
@@ -1832,11 +1926,23 @@
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
+                    <a data-pjax="true" title=".update-copyright.conf: Configure update-copyright
+
+I haven&#39;t configured the copyright blurbs, because we don&#39;t have to
+use that functionality if we&#39;re just maintaining an AUTHORS file.
+
+We&#39;re taking advantage of the automatic name detection that landed in
+update-copyright 0.6.2 [1], so downstream lesson maintainers won&#39;t
+have to tweak .update-copyright.conf (assuming they name their local
+repository directory appropriately).
+
+[1]: http://git.tremily.us/?p=update-copyright.git;a=commit;h=87352a043d30d2812c0db3d65676b9766957773b" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/e44d0b48aaf9de2af1ca30fb424fbd873be0eb24">.update-copyright.conf: Configure update-copyright</a>
+              </span>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <div class="Skeleton Skeleton--text">&nbsp;</div>
+              <time-ago datetime="2015-03-28T20:38:06Z" data-view-component="true" class="no-wrap">Mar 28, 2015</time-ago>
           </div>
 
         </div>
@@ -1852,11 +1958,13 @@
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
+                    <a data-pjax="true" title="add zenodo" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/b4e77f5b2d24871d538e9bd75c7f97d8c96933d8">add zenodo</a>
+              </span>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <div class="Skeleton Skeleton--text">&nbsp;</div>
+              <time-ago datetime="2019-07-01T15:58:41Z" data-view-component="true" class="no-wrap">Jul 1, 2019</time-ago>
           </div>
 
         </div>
@@ -1872,11 +1980,13 @@
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
+                    <a data-pjax="true" title="404 page for better learner experience" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/d8f93f065ec7d4fb24c087b5d7ff3ddec63bedac">404 page for better learner experience</a>
+              </span>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <div class="Skeleton Skeleton--text">&nbsp;</div>
+              <time-ago datetime="2020-12-10T17:42:34Z" data-view-component="true" class="no-wrap">Dec 10, 2020</time-ago>
           </div>
 
         </div>
@@ -1892,11 +2002,13 @@
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
+                    <a data-pjax="true" title="Updating .mailmap and AUTHORS before release" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/640b10a94439313001124d2f03433ad052e51402">Updating .mailmap and AUTHORS before release</a>
+              </span>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <div class="Skeleton Skeleton--text">&nbsp;</div>
+              <time-ago datetime="2017-08-03T21:21:47Z" data-view-component="true" class="no-wrap">Aug 3, 2017</time-ago>
           </div>
 
         </div>
@@ -1912,11 +2024,13 @@
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
+                    <a data-pjax="true" title="Updating CITATION file" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/78f5784a7469ee5720493b5b46bc473b0ccb7edd">Updating CITATION file</a>
+              </span>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <div class="Skeleton Skeleton--text">&nbsp;</div>
+              <time-ago datetime="2016-07-19T01:42:45Z" data-view-component="true" class="no-wrap">Jul 19, 2016</time-ago>
           </div>
 
         </div>
@@ -1932,11 +2046,13 @@
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
+                    <a data-pjax="true" title="[fix carpentries/styles#300] add CODE_OF_CONDUCT.md to root" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/4755a6d767fafa5424eea4689f5ba69ada1142f9">[</a><span class="issue-keyword tooltipped tooltipped-se" aria-label="This commit closes issue #300."><a data-pjax="true" title="[fix carpentries/styles#300] add CODE_OF_CONDUCT.md to root" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/4755a6d767fafa5424eea4689f5ba69ada1142f9">fix</a></span> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="333428479" data-permission-text="Title is private" data-url="https://github.com/carpentries/styles/issues/300" data-hovercard-type="issue" data-hovercard-url="/carpentries/styles/issues/300/hovercard" href="https://github.com/carpentries/styles/issues/300">carpentries/styles#300</a><a data-pjax="true" title="[fix carpentries/styles#300] add CODE_OF_CONDUCT.md to root" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/4755a6d767fafa5424eea4689f5ba69ada1142f9">] add CODE_OF_CONDUCT.md to root</a>
+              </span>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <div class="Skeleton Skeleton--text">&nbsp;</div>
+              <time-ago datetime="2018-06-19T17:40:37Z" data-view-component="true" class="no-wrap">Jun 19, 2018</time-ago>
           </div>
 
         </div>
@@ -1952,11 +2068,13 @@
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
+                    <a data-pjax="true" title="Deduplicate instructions about make-ing a preview" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/3e9483adb722b721c4e69d900049a435981ea45d">Deduplicate instructions about make-ing a preview</a>
+              </span>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <div class="Skeleton Skeleton--text">&nbsp;</div>
+              <time-ago datetime="2019-05-02T17:41:29Z" data-view-component="true" class="no-wrap">May 2, 2019</time-ago>
           </div>
 
         </div>
@@ -1972,11 +2090,15 @@
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
+                    <a data-pjax="true" title="Gemfile: add &#39;webrick&#39; dependency for Ruby 3.0.0 and above
+
+Fixes carpentries/styles#552" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/a841a56c896554249ac2d8566d630080defe72b1">Gemfile: add 'webrick' dependency for Ruby 3.0.0 and above</a>
+              </span>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <div class="Skeleton Skeleton--text">&nbsp;</div>
+              <time-ago datetime="2021-03-05T16:28:26Z" data-view-component="true" class="no-wrap">Mar 5, 2021</time-ago>
           </div>
 
         </div>
@@ -1992,11 +2114,13 @@
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
+                    <a data-pjax="true" title="Add LC to instruction material section" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/55c136ca83729a27ff80d3ea332b33ce813ae417">Add LC to instruction material section</a>
+              </span>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <div class="Skeleton Skeleton--text">&nbsp;</div>
+              <time-ago datetime="2018-12-03T14:12:52Z" data-view-component="true" class="no-wrap">Dec 3, 2018</time-ago>
           </div>
 
         </div>
@@ -2012,11 +2136,13 @@
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
+                    <a data-pjax="true" title="accept any base filename for Rmd episodes" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/fdb264a33b7255fbad31dd1e847f4e94f8193191">accept any base filename for Rmd episodes</a>
+              </span>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <div class="Skeleton Skeleton--text">&nbsp;</div>
+              <time-ago datetime="2020-12-09T11:54:25Z" data-view-component="true" class="no-wrap">Dec 9, 2020</time-ago>
           </div>
 
         </div>
@@ -2032,11 +2158,13 @@
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
+                    <a data-pjax="true" title="use GitHub Actions badge" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/606a83d2e12c6be033136953720f45ce313cae28">use GitHub Actions badge</a>
+              </span>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <div class="Skeleton Skeleton--text">&nbsp;</div>
+              <time-ago datetime="2020-11-23T15:21:20Z" data-view-component="true" class="no-wrap">Nov 23, 2020</time-ago>
           </div>
 
         </div>
@@ -2052,11 +2180,13 @@
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
+                    <a data-pjax="true" title="Merge https://github.com/carpentries/styles into update-styles" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/a6db213a09f4f39e864468b6376f3ec311a68d21">Merge</a> <a href="https://github.com/carpentries/styles">https://github.com/carpentries/styles</a> <a data-pjax="true" title="Merge https://github.com/carpentries/styles into update-styles" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/a6db213a09f4f39e864468b6376f3ec311a68d21">into update-styles</a>
+              </span>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <div class="Skeleton Skeleton--text">&nbsp;</div>
+              <time-ago datetime="2021-03-15T20:35:59Z" data-view-component="true" class="no-wrap">Mar 15, 2021</time-ago>
           </div>
 
         </div>
@@ -2072,11 +2202,23 @@
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
+                    <a data-pjax="true" title="aio.md: multiple improvements
+
+Pull Request: carpentries/styles#406
+
+* change all-in-one file to have the same &#39;depth&#39; as episode files
+
+* move the core script of aio.md into _includes/aio-script.md
+
+* include comment to inform maintainers to not edit the file
+
+* move aio.md to the root of styles repository" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/f7bb0f8f1a9fa7876b4e0664ed018f8a52cb4509">aio.md: multiple improvements</a>
+              </span>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <div class="Skeleton Skeleton--text">&nbsp;</div>
+              <time-ago datetime="2019-05-29T23:10:23Z" data-view-component="true" class="no-wrap">May 29, 2019</time-ago>
           </div>
 
         </div>
@@ -2092,11 +2234,13 @@
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
+                    <a data-pjax="true" title="try using fixed more modern ruby" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/de29b000f429870b54ab628f7acdfe25d1c57ef9">try using fixed more modern ruby</a>
+              </span>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <div class="Skeleton Skeleton--text">&nbsp;</div>
+              <time-ago datetime="2018-09-11T15:21:05Z" data-view-component="true" class="no-wrap">Sep 11, 2018</time-ago>
           </div>
 
         </div>
@@ -2112,11 +2256,21 @@
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
+                    <a data-pjax="true" title='Fix most `make lesson-check-all` warnings (see #415)
+
+Except where "too long" lines are only a few characters over MAX_LINE_LEN.' class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/570ee504b72f83dac3e8de9b60ddb3970ad7eb56">Fix most</a> <code><a data-pjax="true" title='Fix most `make lesson-check-all` warnings (see #415)
+
+Except where "too long" lines are only a few characters over MAX_LINE_LEN.' class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/570ee504b72f83dac3e8de9b60ddb3970ad7eb56">make lesson-check-all</a></code> <a data-pjax="true" title='Fix most `make lesson-check-all` warnings (see #415)
+
+Except where "too long" lines are only a few characters over MAX_LINE_LEN.' class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/570ee504b72f83dac3e8de9b60ddb3970ad7eb56">warnings (see</a> <a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="433999541" data-permission-text="Title is private" data-url="https://github.com/swcarpentry/r-novice-inflammation/issues/415" data-hovercard-type="issue" data-hovercard-url="/swcarpentry/r-novice-inflammation/issues/415/hovercard" href="https://github.com/swcarpentry/r-novice-inflammation/issues/415">swcarpentry#415</a><a data-pjax="true" title='Fix most `make lesson-check-all` warnings (see #415)
+
+Except where "too long" lines are only a few characters over MAX_LINE_LEN.' class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/570ee504b72f83dac3e8de9b60ddb3970ad7eb56">)</a>
+              </span>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <div class="Skeleton Skeleton--text">&nbsp;</div>
+              <time-ago datetime="2019-04-18T08:44:50Z" data-view-component="true" class="no-wrap">Apr 18, 2019</time-ago>
           </div>
 
         </div>
@@ -2132,11 +2286,57 @@
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
+                    <a data-pjax="true" title="Created R Markdown Script" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/358fe2ca6bf4d6e8fbd1cd719cffe5a120f52691">Created R Markdown Script</a>
+              </span>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <div class="Skeleton Skeleton--text">&nbsp;</div>
+              <time-ago datetime="2022-12-05T23:22:17Z" data-view-component="true" class="no-wrap">Dec 5, 2022</time-ago>
+          </div>
+
+        </div>
+        <div role="row" class="Box-row Box-row--focus-gray py-2 d-flex position-relative js-navigation-item ">
+          <div role="gridcell" class="mr-3 flex-shrink-0" style="width: 16px;">
+              <svg aria-label="File" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file color-fg-muted">
+    <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 00.25-.25V6h-2.75A1.75 1.75 0 019 4.25V1.5H3.75zm6.75.062V4.25c0 .138.112.25.25.25h2.688a.252.252 0 00-.011-.013l-2.914-2.914a.272.272 0 00-.013-.011zM2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16h-9.5A1.75 1.75 0 012 14.25V1.75z"></path>
+</svg>
+          </div>
+
+          <div role="rowheader" class="flex-auto min-width-0 col-md-2 mr-3">
+            <span class="css-truncate css-truncate-target d-block width-fit"><a class="js-navigation-open Link--primary" title="patient-inflammation.Rmd" data-turbo-frame="repo-content-turbo-frame" href="/Jefe238/r-novice-inflammation/blob/main/patient-inflammation.Rmd">patient-inflammation.Rmd</a></span>
+          </div>
+
+          <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
+              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
+                    <a data-pjax="true" title="Created R Markdown Script" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/358fe2ca6bf4d6e8fbd1cd719cffe5a120f52691">Created R Markdown Script</a>
+              </span>
+          </div>
+
+          <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
+              <time-ago datetime="2022-12-05T23:22:17Z" data-view-component="true" class="no-wrap">Dec 5, 2022</time-ago>
+          </div>
+
+        </div>
+        <div role="row" class="Box-row Box-row--focus-gray py-2 d-flex position-relative js-navigation-item ">
+          <div role="gridcell" class="mr-3 flex-shrink-0" style="width: 16px;">
+              <svg aria-label="File" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file color-fg-muted">
+    <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 00.25-.25V6h-2.75A1.75 1.75 0 019 4.25V1.5H3.75zm6.75.062V4.25c0 .138.112.25.25.25h2.688a.252.252 0 00-.011-.013l-2.914-2.914a.272.272 0 00-.013-.011zM2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16h-9.5A1.75 1.75 0 012 14.25V1.75z"></path>
+</svg>
+          </div>
+
+          <div role="rowheader" class="flex-auto min-width-0 col-md-2 mr-3">
+            <span class="css-truncate css-truncate-target d-block width-fit"><a class="js-navigation-open Link--primary" title="patient-inflammation.docx" data-turbo-frame="repo-content-turbo-frame" href="/Jefe238/r-novice-inflammation/blob/main/patient-inflammation.docx">patient-inflammation.docx</a></span>
+          </div>
+
+          <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
+              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
+                    <a data-pjax="true" title="Created R Markdown Script" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/358fe2ca6bf4d6e8fbd1cd719cffe5a120f52691">Created R Markdown Script</a>
+              </span>
+          </div>
+
+          <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
+              <time-ago datetime="2022-12-05T23:22:17Z" data-view-component="true" class="no-wrap">Dec 5, 2022</time-ago>
           </div>
 
         </div>
@@ -2152,11 +2352,13 @@
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
+                    <a data-pjax="true" title="Created R Markdown Script" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/358fe2ca6bf4d6e8fbd1cd719cffe5a120f52691">Created R Markdown Script</a>
+              </span>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <div class="Skeleton Skeleton--text">&nbsp;</div>
+              <time-ago datetime="2022-12-05T23:22:17Z" data-view-component="true" class="no-wrap">Dec 5, 2022</time-ago>
           </div>
 
         </div>
@@ -2172,11 +2374,13 @@
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
+                    <a data-pjax="true" title="support coherency in maintenance" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/82b05ee1c2fe108f10c83df02e98ae1f16146af4">support coherency in maintenance</a>
+              </span>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <div class="Skeleton Skeleton--text">&nbsp;</div>
+              <time-ago datetime="2018-01-31T16:26:20Z" data-view-component="true" class="no-wrap">Jan 31, 2018</time-ago>
           </div>
 
         </div>
@@ -2192,11 +2396,13 @@
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
+                    <a data-pjax="true" title="remove permalinks and layouts from individual page front matter" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/c7a0204022a4ce3a8933ad4f2112121d778f1d14">remove permalinks and layouts from individual page front matter</a>
+              </span>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <div class="Skeleton Skeleton--text">&nbsp;</div>
+              <time-ago datetime="2020-10-21T11:58:41Z" data-view-component="true" class="no-wrap">Oct 21, 2020</time-ago>
           </div>
 
         </div>
@@ -2212,11 +2418,18 @@
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
+                    <a data-pjax="true" title="requirements.txt: Add update-copyright for maintaining contributor list
+
+Use my external update-copyright package to maintain copyright blurbs
+and a list of contributors.
+
+http://pypi.python.org/pypi/update-copyright/" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/bfad12378e3fcd7a3df3d372c169527436527b6b">requirements.txt: Add update-copyright for maintaining contributor list</a>
+              </span>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <div class="Skeleton Skeleton--text">&nbsp;</div>
+              <time-ago datetime="2015-03-11T18:00:25Z" data-view-component="true" class="no-wrap">Mar 11, 2015</time-ago>
           </div>
 
         </div>
@@ -2232,11 +2445,13 @@
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
+                    <a data-pjax="true" title="remove permalinks and layouts from individual page front matter" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/c7a0204022a4ce3a8933ad4f2112121d778f1d14">remove permalinks and layouts from individual page front matter</a>
+              </span>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <div class="Skeleton Skeleton--text">&nbsp;</div>
+              <time-ago datetime="2020-10-21T11:58:41Z" data-view-component="true" class="no-wrap">Oct 21, 2020</time-ago>
           </div>
 
         </div>
@@ -2252,11 +2467,13 @@
           </div>
 
           <div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
-              <div class="Skeleton Skeleton--text col-7">&nbsp;</div>
+              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
+                    <a data-pjax="true" title="deploy to gh-pages only from master" class="Link--secondary" href="/Jefe238/r-novice-inflammation/commit/3d8f762a2e53cbc31c77e52dac520ba57cccb940">deploy to gh-pages only from master</a>
+              </span>
           </div>
 
           <div role="gridcell" class="color-fg-muted text-right" style="width:100px;">
-              <div class="Skeleton Skeleton--text">&nbsp;</div>
+              <time-ago datetime="2018-10-10T17:56:58Z" data-view-component="true" class="no-wrap">Oct 10, 2018</time-ago>
           </div>
 
         </div>
@@ -2266,7 +2483,7 @@
 </button>    </div>
   </div>
 
-</include-fragment>
+
 
 
 </div>
@@ -2504,9 +2721,9 @@ or run <code>make</code> in this directory for a list of helpful commands.</p>
                 <h2 class="h4 mb-3">Languages</h2>
 <div class="mb-2">
   <span data-view-component="true" class="Progress">
-    <span style="background-color:#e34c26 !important;;width: 40.9%;" itemprop="keywords" aria-label="HTML 40.9" data-view-component="true" class="Progress-item color-bg-success-emphasis"></span>
+    <span style="background-color:#e34c26 !important;;width: 41.0%;" itemprop="keywords" aria-label="HTML 41.0" data-view-component="true" class="Progress-item color-bg-success-emphasis"></span>
     <span style="background-color:#3572A5 !important;;width: 31.3%;" itemprop="keywords" aria-label="Python 31.3" data-view-component="true" class="Progress-item color-bg-success-emphasis"></span>
-    <span style="background-color:#198CE7 !important;;width: 13.1%;" itemprop="keywords" aria-label="R 13.1" data-view-component="true" class="Progress-item color-bg-success-emphasis"></span>
+    <span style="background-color:#198CE7 !important;;width: 13.0%;" itemprop="keywords" aria-label="R 13.0" data-view-component="true" class="Progress-item color-bg-success-emphasis"></span>
     <span style="background-color:#c6538c !important;;width: 6.2%;" itemprop="keywords" aria-label="SCSS 6.2" data-view-component="true" class="Progress-item color-bg-success-emphasis"></span>
     <span style="background-color:#427819 !important;;width: 3.4%;" itemprop="keywords" aria-label="Makefile 3.4" data-view-component="true" class="Progress-item color-bg-success-emphasis"></span>
     <span style="background-color:#563d7c !important;;width: 3.1%;" itemprop="keywords" aria-label="CSS 3.1" data-view-component="true" class="Progress-item color-bg-success-emphasis"></span>
@@ -2519,7 +2736,7 @@ or run <code>make</code> in this directory for a list of helpful commands.</p>
     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
 </svg>
           <span class="color-fg-default text-bold mr-1">HTML</span>
-          <span>40.9%</span>
+          <span>41.0%</span>
         </span>
     </li>
     <li class="d-inline">
@@ -2537,7 +2754,7 @@ or run <code>make</code> in this directory for a list of helpful commands.</p>
     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
 </svg>
           <span class="color-fg-default text-bold mr-1">R</span>
-          <span>13.1%</span>
+          <span>13.0%</span>
         </span>
     </li>
     <li class="d-inline">
