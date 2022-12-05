@@ -63,14 +63,14 @@ max(patient_1)
 sum(patient_1)
 ```
 
-# step 8E # to discuss with Jeff
+# step 8E
 ```{r}
 # max inflammation for patient 1
 max(data01[1, ])
 
 # the minimum inflammation for patient 2 on day 7
-min(data01[2,'V7'])
-# The minimum inflammation can be found using the code min()
+min(data01[2,"V7"]) #or min(data01[2,7])
+# The minimum inflammation can be found using the code min(). The result is 3.
 ```
 # step 8F
 ```{r}
@@ -90,9 +90,13 @@ plot(avg_day_inflammation)
 
 # the maximum inflammation per day
 max_day_inflammation <- apply(data01, 2, max)
-plot(max_day_inflammation) #
+plot(max_day_inflammation)
+# The data looks this way because it's only taking one variable (max day inflammation) vs the average.
 
 # the minimum inflammation per day
 min_day_inflammation <- apply(data01, 2, min)
-plot(min_day_inflammation) #
+plot(min_day_inflammation)
+# I believe that this data is correct, or else R would have given an error message. The reason this is correct is because our code is right and R is interpreting exactly what we expect it to - min inflammation data across 40 days.
 ```
+
+
